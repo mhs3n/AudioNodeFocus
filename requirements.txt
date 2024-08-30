@@ -1,0 +1,10 @@
+pyaudio
+wave
+librosa
+tensorflow
+scipy
+numpy
+soundfile
+pyttsx3
+std_msgs
+
