@@ -1,0 +1,18 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/focus/Bureau/Audio_Node/install/ttospeech/local/lib/python3.10/dist-packages",
+        "/home/focus/Bureau/Audio_Node/install/textpackage/lib/python3.10/site-packages",
+        "/home/focus/Bureau/Audio_Node/install/tensorflow-examples/lib/python3.10/site-packages",
+        "/home/focus/Bureau/Audio_Node/install/audioset-download/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/focus/Bureau/Audio_Node/install/ttospeech/local/lib/python3.10/dist-packages",
+        "/home/focus/Bureau/Audio_Node/install/textpackage/lib/python3.10/site-packages",
+        "/home/focus/Bureau/Audio_Node/install/tensorflow-examples/lib/python3.10/site-packages",
+        "/home/focus/Bureau/Audio_Node/install/audioset-download/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
