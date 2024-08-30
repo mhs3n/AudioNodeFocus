@@ -1,0 +1,5 @@
+string filepath
+float32 duration
+---
+string message
+bool success
